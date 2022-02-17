@@ -36,7 +36,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"MeetingRoom"
+                 "value":"TG-Meetingraum"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -46,7 +46,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Press SPACE \/ touch to enter the virtual meeting"
+                 "value":"Drücke die Leertaste \/ um den Meeting-Raum zu betreten."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -64,7 +64,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"ChillZoneOrganisation"
+                 "value":"TG-Ruheraum"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -74,7 +74,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Press SPACE \/ touch to enter the virtual meeting"
+                 "value":"Leertaste drücken \/ um in diesen Raum einzutreten."
                 }],
          "type":"tilelayer",
          "visible":true,
